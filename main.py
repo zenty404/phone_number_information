@@ -1,3 +1,6 @@
+# © 2022 A. LASNIER
+# -  Tous droits réservés.
+
 # ----------
 # Importation:
 # ---------- 
@@ -20,7 +23,7 @@ import webbrowser
 # ----------
 
 def open_my_channel():
-    webbrowser.open_new("https://www.twitch.tv/art_hur421")
+    webbrowser.open_new("https://www.twitch.tv/zenty404")
 
 def boutton_r():
     resultat1.delete(0, END)
